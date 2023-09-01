@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "io.github.andrew6rant.breakvalidator.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "BlockRenderManagerMixin",
+    "OverlayVertexConsumerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
